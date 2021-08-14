@@ -1,0 +1,5 @@
+<resources>
+    <!-- region app name -->
+    <string name="app_name">Biometric</string>
+    <!--endregion  name-->
+</resources>
